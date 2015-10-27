@@ -1,0 +1,23 @@
+name: twshelton
+favicon: null
+layout_spectrum: 0.7624805886298418
+typography_spectrum: 0.7486698369029909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.01997281052172184
+  lightness: 0.9344663347583264
+  saturation: 0.42831370141357183
+  rhythmicContrast: 0.759622375946492
+purpose: []
